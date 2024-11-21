@@ -29,4 +29,4 @@ A modern and interactive Tic Tac Toe game designed with a sleek purple-themed in
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/YourUsername/Tic-Tac-Toe.git
+git clone https://github.com/Abubakar901/tic-tac-toe.git
